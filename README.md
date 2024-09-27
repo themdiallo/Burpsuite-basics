@@ -1,1 +1,1 @@
-# Burpsuite-basics
+# Burp suite-basics
