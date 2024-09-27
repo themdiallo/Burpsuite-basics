@@ -1,1 +1,1 @@
-# Burp suite-basics
+# Burp suite: The Basics
