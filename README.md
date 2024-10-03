@@ -22,17 +22,35 @@ This project consist of exploring the basics of Burp Suite to understand how it 
 
 <h2>Environments Used </h2>
 
-- <b>Tryhackme</b> 
+- <b>Tryhackme | Burp suite: The Basics</b> 
 
-<h2>Program walk-through:</h2>
+<h2>walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Task 2: what is Burpsuite?
+
+Q: which edition of burpsuite runs on a server and provides constant scanning for target web apps? 
+
+A: Burpsuite Entreprise.
+
+Q: Burpsuite is frequently used when attacking web applications and --- applications.
+
+A: Mobile
+
+Task 3:
+
+Q: which Burpsuite feature allows us to intercept requests between ourselves and target?
+
+A: Proxy 
+
+
+<br/>
+
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 <br />
 <br />
 Enter the number of passes: <br/>
